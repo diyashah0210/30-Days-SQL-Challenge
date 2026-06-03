@@ -1,5 +1,5 @@
  # 30 Days of SQL
-  ![SQL-BANNER]("[C:\Users\ADMIN\Downloads\30_days_SQL\intro-page.png](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/main/intro-page.png?raw=true)")
+  ![SQL-BANNER](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/main/intro-page.png?raw=true)
  
  # 30 DAYS SQL CHALLENGE -- Day 1: Foundations of Databases and SQL
 
