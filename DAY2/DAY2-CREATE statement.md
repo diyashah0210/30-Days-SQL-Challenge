@@ -476,5 +476,5 @@ FROM Books;
  
  ---
  
-[Previous: Day 1 - Introduction to SQL](../README.md) 🔙\
+[Previous: Day 1 - Introduction to SQL](DAY1-INTRODUCTION/README.md) 🔙
 [Next: Day 3 - Filtering Data with WHERE]() 🔜
