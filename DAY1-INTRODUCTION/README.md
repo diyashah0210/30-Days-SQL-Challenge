@@ -1,5 +1,6 @@
  # 30 Days of SQL
-  ![SQL-BANNER](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/main/intro-page.png?raw=true)
+ 
+  ![SQL-BANNER](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/f041d7eaf22d325805abb71fa0114eff23d40f8e/DAY1-INTRODUCTION/Intropage.png)
  
  # 30 DAYS SQL CHALLENGE -- Day 1: Foundations of Databases and SQL
  **Welcome to Day 1**
