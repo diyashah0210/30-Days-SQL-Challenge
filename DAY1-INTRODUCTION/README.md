@@ -425,6 +425,8 @@ SELECT \'Hello, SQL!\';
 ```
 
  Capture a screenshot of the result for your learning portfolio.
+**SCREENSHOT**
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/8c410f6d-529d-489a-8baa-ada2578a7c7c" />
 
  **Activity 4: Understand Database Components**
 
