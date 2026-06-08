@@ -475,6 +475,3 @@ FROM Books;
  ## **Progress Status:** Day 2 Completed ✅
  
  ---
- 
-[Previous: Day 1 - Introduction to SQL](DAY1-INTRODUCTION/README.md) 🔙
-[Next: Day 3 - Filtering Data with WHERE]() 🔜
