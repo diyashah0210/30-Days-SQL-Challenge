@@ -518,20 +518,44 @@ student_id INT IDENTITY(1,1)
 These concepts form the foundation of database design and are essential
 before moving into advanced querying techniques.
 
-# 🚀 Coming Up Next: Day 4 -- SELECT Deep Dive, WHERE Clause &
- **Filtering Data**
- You\'ll learn:
+## 🚀 Coming Up Next: Day 4 – SQL Command Categories & The Library Analogy
 
-| SELECT |
-| ------ |
-|  WHERE |
-|  AND   |
-|  OR    |
-|  NOT   |
-|  IN    |
-|  BETWEEN  |
-|  LIKE  |
-|  ORDER BY  |
-|  LIMIT |
+So far, you've learned how to create databases, design tables, establish relationships, and maintain data integrity using constraints.
+
+Before writing complex queries, it's important to understand how SQL commands are classified and what purpose each category serves.
+
+In Day 4, you'll learn:
+
+### SQL Command Categories
+
+* DDL (Data Definition Language)
+* DML (Data Manipulation Language)
+* DQL (Data Query Language)
+* DCL (Data Control Language)
+* TCL (Transaction Control Language)
+
+### The Library Management Analogy
+
+Understand SQL using a real-world library system where:
+
+* Creating shelves represents DDL
+* Adding books represents DML
+* Searching books represents DQL
+* Managing librarian permissions represents DCL
+* Borrowing and returning books safely represents TCL
+
+### First Deep Dive: DDL Commands
+
+You'll begin exploring:
+
+```sql
+CREATE
+ALTER
+DROP
+TRUNCATE
+RENAME
+```
+
+and learn how database structures are created and managed in professional database systems.
 
 ## Progress Status: Day 3 Completed ✅
