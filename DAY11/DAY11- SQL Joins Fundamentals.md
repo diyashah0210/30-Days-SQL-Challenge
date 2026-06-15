@@ -696,5 +696,5 @@ and understand how to combine results from multiple queries efficiently.
 ## Progress Status: Day 11 Completed ✅
 ---
 
-[PREVIOUS: DAY10](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fe978bd423976e82cf6f36a7eefcd3eb340be43e/DAY10/Day%2010-%20SQL%20Mastery%20Assessment.md)👆/
+[PREVIOUS: DAY10](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fe978bd423976e82cf6f36a7eefcd3eb340be43e/DAY10/Day%2010-%20SQL%20Mastery%20Assessment.md)👆\
 [NEXT: DAY12](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fe978bd423976e82cf6f36a7eefcd3eb340be43e/DAY12/DAY12-%20SQL%20Set%20Operations.md)👇
