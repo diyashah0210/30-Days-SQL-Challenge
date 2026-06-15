@@ -2,8 +2,7 @@
 
  Welcome to **Day 3** of the 30 Days of SQL Challenge!
 
- In the previous lesson, you learned how to create databases, tables,
- and insert data. However , real-world databases rarely consist of a single table. Modern database systems contain multiple tables that interact with one another through relationships.
+ In the previous lesson, you learned how to create databases, tables, and insert data. However , real-world databases rarely consist of a single table. Modern database systems contain multiple tables that interact with one another through relationships.
 
  Today, you\'ll learn how tables are connected, how Entity Relationship (ER) Diagrams help design databases, and how constraints ensure data integrity.
 
