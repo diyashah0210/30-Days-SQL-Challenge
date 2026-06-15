@@ -1,5 +1,4 @@
 
-
  # 🚀 30 Days of SQL -- Day 2 
  
  ## Creating Databases, Tables, Data Types, Keys, INSERT & SELECT
