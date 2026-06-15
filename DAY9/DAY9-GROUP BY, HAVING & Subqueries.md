@@ -589,5 +589,5 @@ and understand how SQL combines data from multiple related tables.
 
 ## Progress Status: Day 9 Completed ✅
 ---
-[PREVIOUS: DAY8]()
-[NEXT: DAY10]()
+[PREVIOUS: DAY8](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/614645f4f03e8d2149006e1105feb22d016fc269/DAY8/DAY8-SQL%20Functions.md)👆\
+[NEXT: DAY10](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/614645f4f03e8d2149006e1105feb22d016fc269/DAY10/Day%2010-%20SQL%20Mastery%20Assessment.md)👇
