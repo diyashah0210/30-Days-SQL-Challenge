@@ -620,3 +620,6 @@ FETCH
 and understand how to organize and restrict query results for reporting and analysis.
 
 ## Progress Status: Day 6 Completed ✅
+---
+[PREVIOUS: DAY5](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/35a26d2dc718241c83423e46bd4ae2f8ced26dcf/DAY5/DAY5-%20DML%20%26%20DQL%20Fundamentals.md)👆\
+[NEXT: DAY7](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/35a26d2dc718241c83423e46bd4ae2f8ced26dcf/DAY7/DAY7-%20Sorting%20%26%20Limiting%20Data.md)👇
