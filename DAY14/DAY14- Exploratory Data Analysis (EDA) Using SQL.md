@@ -929,4 +929,4 @@ and discover how organizations use SQL to calculate key performance indicators a
 ## Progress Status: Day 14 Completed ✅
 ---
 [PREVIOUS: DAY13](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/e322e6dcb403a8e42f9ec6fb892f31bb44d506be/DAY13/DAY13-%20Date%20%26%20Time%20Functions.md)👆\
-[NEXT: DAY15]()👇
+[NEXT: DAY15](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/153550015db8bf07c8df07b4362082491c76f392/DAY15/DAY15-%20Advanced%20Aggregate%20Functions%20%26%20KPI%20Analysis.md)👇
