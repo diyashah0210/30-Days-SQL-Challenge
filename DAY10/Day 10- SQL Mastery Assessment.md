@@ -503,3 +503,6 @@ CROSS JOIN
 and understand how relational databases combine data across multiple related tables.
 
 **Progress Status:** Day 10 Completed ✅
+---
+[PREVIOUS: DAY9](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/03783536201c76b4aab88e2e43f4db3f052e0f1d/DAY9/DAY9-GROUP%20BY%2C%20HAVING%20%26%20Subqueries.md)👆\
+[NEXT: DAY11](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/03783536201c76b4aab88e2e43f4db3f052e0f1d/DAY11/DAY11-%20SQL%20Joins%20Fundamentals.md)👇
