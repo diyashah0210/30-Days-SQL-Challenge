@@ -506,5 +506,7 @@ BETWEEN
 LIKE
 ```
 ---
-# **Progress Status:** Day 5 Completed ✅
+## **Progress Status:** Day 5 Completed ✅
 ---
+[PREVIOUS: DAY4](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/8a8aa07f01de27acddb451a3cfe8d9e019c2bff7/DAY4/DAY4-SQL%20Command%20Categories%20%26%20Introduction%20to%20DDL.md)👆\
+[NEXT: DAY6](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/8a8aa07f01de27acddb451a3cfe8d9e019c2bff7/DAY6/DAY6-Filtering%20Data%20with%20WHERE%20Clause.md)👇
