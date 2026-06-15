@@ -597,3 +597,6 @@ CONCAT()
 and understand how SQL functions help perform calculations and manipulate data efficiently.
 
 ## Progress Status: Day 7 Completed ✅
+---
+[PREVIOUS: DAY6](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/0ac9ca2baf63e29a8dea8dcc4ba6d4f3810d738f/DAY6/DAY6-Filtering%20Data%20with%20WHERE%20Clause.md)👆\
+[NEXT: DAY8](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/0ac9ca2baf63e29a8dea8dcc4ba6d4f3810d738f/DAY8/DAY8-SQL%20Functions.md)👇
