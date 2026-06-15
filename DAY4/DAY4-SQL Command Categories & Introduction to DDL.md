@@ -416,5 +416,7 @@ Understanding DDL is a foundational skill because every database begin with well
  
 ---
 
- # Progress Status: Day 4 Completed ✅
+ ## Progress Status: Day 4 Completed ✅
 ---
+[PREVIOUS: DAY3](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/80eebed46948b8e5ab416a710eb39a73795d2a04/DAY3/DAY3-Relationships%2C%20ER%20Diagrams%20%26%20Constraints.md)👆\
+[NEXT: DAY 5](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/80eebed46948b8e5ab416a710eb39a73795d2a04/DAY5/DAY5-%20DML%20%26%20DQL%20Fundamentals.md)👇
