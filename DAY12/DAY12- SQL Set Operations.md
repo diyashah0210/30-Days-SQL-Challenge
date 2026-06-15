@@ -591,4 +591,4 @@ and discover how SQL handles and manipulates dates, times, and text data efficie
 ---
 
 [PREVIOUS: DAY11](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fc7895c06a0591070484f5235a55808a4dae69ea/DAY11/DAY11-%20SQL%20Joins%20Fundamentals.md) 👆/
-[NEXT: DAY13]()👇
+[NEXT: DAY13](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/e322e6dcb403a8e42f9ec6fb892f31bb44d506be/DAY13/DAY13-%20Date%20%26%20Time%20Functions.md)👇
