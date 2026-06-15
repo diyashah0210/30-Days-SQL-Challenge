@@ -561,4 +561,7 @@ HAVING
 and understand how to group records and perform powerful data analysis using aggregate functions.
 ---
 
-# Progress Status: Day 8 Completed ✅
+## Progress Status: Day 8 Completed ✅
+---
+[PREVIOUS: DAY7](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/29bdb6888b566f196d65dac69b3369909a8b25ce/DAY7/DAY7-%20Sorting%20%26%20Limiting%20Data.md)👆\
+[NEXT: DAY9](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/29bdb6888b566f196d65dac69b3369909a8b25ce/DAY9/DAY9-GROUP%20BY%2C%20HAVING%20%26%20Subqueries.md)👇
