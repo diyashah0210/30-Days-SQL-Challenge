@@ -569,5 +569,5 @@ Topics Covered:
 ## Progress Status: Day 18 Completed ✅
 ---
 
-[PREVIOUS: DAY17](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/45b2d2dfb4dd18bc1c814ddd126d8d203761fd09/DAY17/DAY17-%20Window%20Functions.md.md)👆\
-[NEXT: DAY19]()👇
+[PREVIOUS: DAY17-SQL WINDOWS FUNCTIONS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/45b2d2dfb4dd18bc1c814ddd126d8d203761fd09/DAY17/DAY17-%20Window%20Functions.md)👆\
+[NEXT: DAY19-VIEWS AND MATERIALIZED VIEWS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/d1ea31cc73f3716b628f471bf5a7e81bf0e20707/DAY19/DAY19-%20Views%20%26%20Materialized%20Views.md)👇
