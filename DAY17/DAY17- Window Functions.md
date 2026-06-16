@@ -589,4 +589,4 @@ Topics Covered:
 ---
 
 [PREVIOUS: DAY16](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/01b9b9e353d86c5e2cb7e23b33ee2c59e8ba48b9/DAY16/DAY16%20-%20SQL%20Mastery%20Assessment%202.md)👆\
-[NEXT: DAY18]()👇
+[NEXT: DAY18](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/4750d399ee75895a614668c2c63ec7cc87024474/DAY18/DAY18-%20Common%20Table%20Expressions%20(CTEs)%20%26%20Recursive%20CTEs.md)👇
