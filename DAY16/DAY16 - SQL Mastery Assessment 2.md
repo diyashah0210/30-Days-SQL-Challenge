@@ -387,7 +387,7 @@ Learn how SQL performs row-by-row analytics without collapsing data into groups.
 
 **Progress Status:** Day 16 Completed ✅
 ---
-[ANSWERS]()
+[ANSWERS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/3ae7543ab92e97d363d4c5411643d416e16acb87/DAY16/DAY16-%20Assessment%202%20Answer%20Key.md)
 
 [PREVIOUS: DAY15](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/72bdd390adc7c8037dbde764d8154751e714ccef/DAY15/DAY15-%20Advanced%20Aggregate%20Functions%20%26%20KPI%20Analysis.md)👆\
-[NEXT: DAY17]()👇
+[NEXT: DAY17](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/3ae7543ab92e97d363d4c5411643d416e16acb87/DAY17/DAY17-%20Window%20Functions.md.md)👇
