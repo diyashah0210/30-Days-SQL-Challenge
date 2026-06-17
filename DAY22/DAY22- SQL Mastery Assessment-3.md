@@ -1,4 +1,4 @@
-# 🚀 30 Days of SQL – Day 22: Assessment 4
+# 🚀 30 Days of SQL – Day 22: Assessment 3
 
 Welcome to **Day 22** of the **30 Days of SQL Challenge!**
 
@@ -360,4 +360,4 @@ You've now completed four major SQL assessments covering:
 [ANSWERS]()
 
 [PREVIOUS: DAY21-Transaction and Concurrency Control]()👆\
-[NEXT: DAY23-TRIGGERS AND EVENTS]
+[NEXT: DAY23-TRIGGERS AND EVENTS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/d6e86f277540ce8b7e65f46fedb0632217281561/DAY23/DAY23-%20Data%20Modeling%20%26%20Normalization.md)👇
