@@ -18,29 +18,29 @@ SQL Analytics helps businesses answer questions such as:
 
 # 📚 Table of Contents
 
-- Overview
-- What is SQL Analytics?
-- Why Analytics is Important
-- Types of Business Analytics
-- KPI Analysis
-- Revenue Analysis
-- Profit Analysis
-- Customer Analytics
-- Sales Analytics
-- Product Analytics
-- Employee Analytics
-- Time-Based Analysis
-- Cohort Analysis Basics
-- Ranking Analysis
-- Trend Analysis
-- Comparative Analysis
-- Dashboard Queries
-- Real-World Case Studies
-- Common Mistakes
-- Hands-On Challenge
-- Practice Exercises
-- Key Takeaways
-- Day 26 Summary
+1. Overview
+2. What is SQL Analytics?
+3. Why Analytics is Important
+4. Types of Business Analytics
+5. KPI Analysis
+6. Revenue Analysis
+7. Profit Analysis
+8. Customer Analytics
+9. Sales Analytics
+10. Product Analytics
+11. Employee Analytics
+12. Time-Based Analysis
+13. Cohort Analysis Basics
+14. Ranking Analysis
+15. Trend Analysis
+16. Comparative Analysis
+17. Dashboard Queries
+18. Real-World Case Studies
+19. Common Mistakes
+20. Hands-On Challenge
+21. Practice Exercises
+22. Key Takeaways
+23. Day 26 Summary
 
 ---
 
@@ -610,5 +610,5 @@ These skills are among the most valuable applications of SQL in modern organizat
 - Best Practices
 
 ## Progress Status: Day 26 Completed ✅
-[PREVIOUS: DAY25-DATA IMPORT AND EXPORT]()👆\
-[NEXT: DAY27-ERROR HANDLING & EXCEPTION MANAGEMENT]()👇
+[PREVIOUS: DAY25-DATA IMPORT AND EXPORT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c89b78382d4335e196e8a8f92bf9b1edbf93d5b2/DAY25/DAY25-%20Data%20Import%20%26%20Export.md)👆\
+[NEXT: DAY27-ERROR HANDLING & MANAGEMENT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c89b78382d4335e196e8a8f92bf9b1edbf93d5b2/DAY27/DAY27-%20Error%20Handling%20%26%20Exception%20Management.md)👇
