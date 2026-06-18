@@ -691,4 +691,4 @@ These concepts are heavily used in enterprise systems to reduce manual work, enf
 
 ## Progress Status: Day 24 Completed ✅
 [PREVIOUS: DAY23-DATA MODELING & NORMALIZATION](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/df4b0211c1cd4f7c7ac2f59702c3f939195cca81/DAY23/DAY23-%20Data%20Modeling%20%26%20Normalization.md)👆\
-[NEXT: DAY25-DATA IMPORT AND EXPORT]()👇
+[NEXT: DAY25-DATA IMPORT AND EXPORT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fe53538772b7fe4158834daf565e40095734ef98/DAY25/DAY25-%20Data%20Import%20%26%20Export.md)👇
