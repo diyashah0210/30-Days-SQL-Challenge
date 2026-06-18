@@ -10,31 +10,31 @@ Today, you'll learn how to efficiently **import, export, migrate, and back up da
 
 # 📚 Table of Contents
 
-- Overview
-- What is Data Import & Export?
-- Why Import & Export is Important
-- Sources of Data
-- Data Import Methods
-- Importing CSV Files
-- LOAD DATA INFILE
-- BULK INSERT
-- Import Wizards
-- Importing JSON Data
-- Exporting Data
-- Exporting Query Results
-- Exporting to CSV
-- Database Backups
-- Database Restore
-- Data Migration
-- ETL Basics
-- Data Validation After Import
-- Common Import Errors
-- Best Practices
-- Real-World Use Cases
-- Hands-On Challenge
-- Practice Exercises
-- Key Takeaways
-- Day 25 Summary
+1. Overview
+2. What is Data Import & Export?
+3. Why Import & Export is Important
+4. Sources of Data
+5. Data Import Methods
+6. Importing CSV Files
+7. LOAD DATA INFILE
+8. BULK INSERT
+9. Import Wizards
+10. Importing JSON Data
+11. Exporting Data
+12. Exporting Query Results
+13. Exporting to CSV
+14. Database Backups
+15. Database Restore
+16. Data Migration
+17. ETL Basics
+18. Data Validation After Import
+19. Common Import Errors
+20. Best Practices
+21. Real-World Use Cases
+22. Hands-On Challenge
+23. Practice Exercises
+24. Key Takeaways
+25. Day 25 Summary
 
 ---
 
@@ -659,5 +659,5 @@ These skills are essential for database administrators, data engineers, analysts
 - Real-World Analytics
 
 ## Progress Status: Day 25 Completed ✅
-[PREVIOUS: DAY24-TRIGGERS AND EVENTS]()👆\
-[NEXT: DAY26-SQL FOR ANALYTICS]()👇
+[PREVIOUS: DAY24-TRIGGERS AND EVENTS](https://github.com/diyashah0210/30-Days-SQL-Challenge/tree/3e62eb1375dcd1799bd61623da65863ba824f7c2/DAY24)👆\
+[NEXT: DAY26-SQL FOR ANALYTICS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/3e62eb1375dcd1799bd61623da65863ba824f7c2/DAY26/DAY26-%20SQL%20for%20Analytics.md)👇
