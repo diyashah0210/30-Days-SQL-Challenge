@@ -635,5 +635,5 @@ These concepts are critical in enterprise applications where reliability, consis
 - Security Best Practices
 
 ## Progress Status: Day 27 Completed ✅
-[PREVIOUS: DAY26-SQL FOR ANALYTICS]()👆\
-[NEXT: DAY28-SQL SECURITY AND USER MANAGEMENT]()👇
+[PREVIOUS: DAY26-SQL FOR ANALYTICS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c89b78382d4335e196e8a8f92bf9b1edbf93d5b2/DAY26/DAY26-%20SQL%20for%20Analytics.md) 👆\
+[NEXT: DAY28-SQL SECURITY AND USER MANAGEMENT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c89b78382d4335e196e8a8f92bf9b1edbf93d5b2/DAY28/DAY28-%20SQL%20Security%20%26%20User%20Management.md) 👇
