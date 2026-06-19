@@ -558,5 +558,5 @@ RENAME
 and learn how database structures are created and managed in professional database systems.
 
 ## Progress Status: Day 3 Completed ✅
-[PREVIOUS: DAY2-CREATE STATEMENT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/fbf25153dfae9f6150f106e9887d44facf0c82fd/DAY2/DAY2-CREATE%20statement.md)👆\
-[NEXT DAY4-SQL COMMAND CATEGORIES & INTRODUCTION TO DDL](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/e993883beb922c829e2c71c5a522c53096483d13/DAY4/DAY4-SQL%20Command%20Categories%20%26%20Introduction%20to%20DDL.md)👇
+[PREVIOUS: DAY2-CREATE STATEMENT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/main/DAY2/DAY2-CREATE%20statement.md)👆\
+[NEXT DAY4-SQL COMMAND CATEGORIES & INTRODUCTION TO DDL](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/main/DAY4/DAY4-SQL%20Command%20Categories%20%26%20Introduction%20to%20DDL.md)👇
