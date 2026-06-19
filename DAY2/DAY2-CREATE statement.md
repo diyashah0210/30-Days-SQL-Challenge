@@ -1,7 +1,4 @@
-
- # 🚀 30 Days of SQL -- Day 2 
- 
- ## Creating Databases, Tables, Data Types, Keys, INSERT & SELECT
+ # 🚀 30 Days of SQL -- Day 2: Creating Databases, Tables, Data Types, Keys, INSERT & SELECT
 
  Welcome to **Day 2** of the **30 Days of SQL Challenge**!
 
@@ -474,5 +471,5 @@ FROM Books;
  ## **Progress Status:** Day 2 Completed ✅
  
  ---
-[ PREVIOUS: DAY-1](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/bd613df4a3f8ccf85fb37de3bcdd19464ff16e8b/DAY1-INTRODUCTION/README.md)👆\
-[NEXT: DAY-3](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/bd613df4a3f8ccf85fb37de3bcdd19464ff16e8b/DAY3/DAY3-Relationships%2C%20ER%20Diagrams%20%26%20Constraints.md)👇
+[ PREVIOUS: DAY-1:INTRODUCTION TO SQL](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/bd613df4a3f8ccf85fb37de3bcdd19464ff16e8b/DAY1-INTRODUCTION/README.md)👆\
+[NEXT: DAY-3:RELATIONSHIPS, ER DIAGRAMS & CONSTRAINTS](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/bd613df4a3f8ccf85fb37de3bcdd19464ff16e8b/DAY3/DAY3-Relationships%2C%20ER%20Diagrams%20%26%20Constraints.md)👇
