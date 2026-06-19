@@ -485,23 +485,13 @@ SELECT \'Hello, SQL!\';
 
 ```sql 
 CREATE  
-```
-                                                            
-```sql 
 ALTER 
-```
-```sql 
 DROP  
-```
-
-```sql 
 TRUNCATE                                                 
 ```
 
 ## Progress Status: Day 1 Completed ✅
 
----
-
-[NEXT: DAY2](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c2ee4ce3bf6ee7dca7fac335f0d4b8bf367254e1/DAY2/DAY2-CREATE%20statement.md) 👆
+[NEXT: DAY2-CREATE STATEMENT](https://github.com/diyashah0210/30-Days-SQL-Challenge/blob/c2ee4ce3bf6ee7dca7fac335f0d4b8bf367254e1/DAY2/DAY2-CREATE%20statement.md) 👆
 
 
